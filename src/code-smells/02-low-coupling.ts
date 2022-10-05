@@ -101,8 +101,6 @@
     }
   }
 
-  const test = "borrar";
-
   const userSettings = new UserSettings({
     birthdate: new Date("1985-10-21"),
     email: "fernando@google.com",
